@@ -12,9 +12,12 @@ sample_project/.git
 sample_project/README.md
 sample_project/lib/widget.rb
 
+change 2nd time in hello branch.
 br3: hellobranch
+
 
 
 git checkout -b newfea2 master
 
 
+hellobranch
