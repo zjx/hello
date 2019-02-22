@@ -13,3 +13,8 @@ sample_project/README.md
 sample_project/lib/widget.rb
 
 br3: hellobranch
+
+
+git checkout -b newfea2 master
+
+
